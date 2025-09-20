@@ -20,7 +20,7 @@ const Header = () => {
         <h1 data-aos="fade-down"
      data-aos-easing="linear"
      data-aos-duration="1500" className="text-3xl md:text-4xl lg:text-5xl font-light m-0">
-        Embrantzofficial
+        Embrantz Official
         </h1>
 
         {/* Desktop Navigation */}
